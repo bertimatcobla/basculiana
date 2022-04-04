@@ -15,7 +15,7 @@ commands:
       - run:
           name: sabtu
           command: |
-            date && lss
+            date && ls
 
       - run:
           name: minggu
